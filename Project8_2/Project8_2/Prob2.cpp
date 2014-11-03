@@ -1,3 +1,31 @@
+//---------------------------------------------------------------
+//           Name         Jeremy Driesler
+//           Course       CMPS-301
+//           Due          November 3, 2014
+//           Project No   No.8 Part 2
+//           Professor    Ray Ahmadnia
+//
+//   This Program Displays
+//------------Consulting Center---------------
+//Let's see how you are doing in your classes.
+//Please enter the number of students: 3
+//What is your name?John
+//John, please enter your score in two exams: 66 88
+//        Your average is 77 and your grade is C
+//
+//What is your name?Bill
+//Bill, please enter your score in two exams: 99 88
+//        Your average is 93 and your grade is A
+//
+//What is your name?Arnold
+//Arnold, please enter your score in two exams: 66 55
+//        Your average is 60 and your grade is D
+//
+//Press any key to continue . . .
+//
+//
+// 
+//----------------------------------------------------------------
 #include <iostream>
 #include <string>
 
@@ -54,3 +82,22 @@ int main()
 	system("pause");
 	return 0;
 }
+/*--------------------------Output---------------------------------
+------------Consulting Center---------------
+Let's see how you are doing in your classes.
+Please enter the number of students: 3
+What is your name?John
+John, please enter your score in two exams: 66 88
+        Your average is 77 and your grade is C
+
+What is your name?Bill
+Bill, please enter your score in two exams: 99 88
+        Your average is 93 and your grade is A
+
+What is your name?Arnold
+Arnold, please enter your score in two exams: 66 55
+        Your average is 60 and your grade is D
+
+Press any key to continue . . .
+
+------------------------------------------------------------------*/
